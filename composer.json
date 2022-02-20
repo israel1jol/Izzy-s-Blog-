@@ -1,0 +1,15 @@
+{
+    "name": "mvc/blog",
+    "autoload": {
+        "psr-4": {
+            "Mvc\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "israel",
+            "email": "adigun.jolly@gmail.com"
+        }
+    ],
+    "require": {}
+}
